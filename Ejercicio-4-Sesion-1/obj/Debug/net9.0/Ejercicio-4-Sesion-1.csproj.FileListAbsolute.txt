@@ -1,0 +1,14 @@
+C:\Users\MSI LEOPARD\Downloads\Tarea 1- Semana 1\Ejercicio-4-Sesion-1\bin\Debug\net9.0\Ejercicio-4-Sesion-1.exe
+C:\Users\MSI LEOPARD\Downloads\Tarea 1- Semana 1\Ejercicio-4-Sesion-1\bin\Debug\net9.0\Ejercicio-4-Sesion-1.deps.json
+C:\Users\MSI LEOPARD\Downloads\Tarea 1- Semana 1\Ejercicio-4-Sesion-1\bin\Debug\net9.0\Ejercicio-4-Sesion-1.runtimeconfig.json
+C:\Users\MSI LEOPARD\Downloads\Tarea 1- Semana 1\Ejercicio-4-Sesion-1\bin\Debug\net9.0\Ejercicio-4-Sesion-1.dll
+C:\Users\MSI LEOPARD\Downloads\Tarea 1- Semana 1\Ejercicio-4-Sesion-1\bin\Debug\net9.0\Ejercicio-4-Sesion-1.pdb
+C:\Users\MSI LEOPARD\Downloads\Tarea 1- Semana 1\Ejercicio-4-Sesion-1\obj\Debug\net9.0\Ejercicio-4-Sesion-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI LEOPARD\Downloads\Tarea 1- Semana 1\Ejercicio-4-Sesion-1\obj\Debug\net9.0\Ejercicio-4-Sesion-1.AssemblyInfoInputs.cache
+C:\Users\MSI LEOPARD\Downloads\Tarea 1- Semana 1\Ejercicio-4-Sesion-1\obj\Debug\net9.0\Ejercicio-4-Sesion-1.AssemblyInfo.cs
+C:\Users\MSI LEOPARD\Downloads\Tarea 1- Semana 1\Ejercicio-4-Sesion-1\obj\Debug\net9.0\Ejercicio-4-Sesion-1.csproj.CoreCompileInputs.cache
+C:\Users\MSI LEOPARD\Downloads\Tarea 1- Semana 1\Ejercicio-4-Sesion-1\obj\Debug\net9.0\Ejercicio-4-Sesion-1.dll
+C:\Users\MSI LEOPARD\Downloads\Tarea 1- Semana 1\Ejercicio-4-Sesion-1\obj\Debug\net9.0\refint\Ejercicio-4-Sesion-1.dll
+C:\Users\MSI LEOPARD\Downloads\Tarea 1- Semana 1\Ejercicio-4-Sesion-1\obj\Debug\net9.0\Ejercicio-4-Sesion-1.pdb
+C:\Users\MSI LEOPARD\Downloads\Tarea 1- Semana 1\Ejercicio-4-Sesion-1\obj\Debug\net9.0\Ejercicio-4-Sesion-1.genruntimeconfig.cache
+C:\Users\MSI LEOPARD\Downloads\Tarea 1- Semana 1\Ejercicio-4-Sesion-1\obj\Debug\net9.0\ref\Ejercicio-4-Sesion-1.dll
